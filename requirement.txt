@@ -1,0 +1,6 @@
+Libraries required: 
+
+* numpy
+* matplotlib
+* scipy
+* scikit-learn
